@@ -1,0 +1,3 @@
+setup,f1,roc_auc,accuracy
+Full Features (50),0.9999750343277993,1.0,0.9999787224988297
+"Ablated (without URLSimilarityIndex, URLCharProb, TLDLegitimateProb)",0.9994756685226336,0.9999927946629261,0.9995531724754245

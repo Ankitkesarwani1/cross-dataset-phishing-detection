@@ -1,0 +1,3 @@
+model,dataset,best_params,best_cv_f1
+Random Forest,UCI_Aligned,"{'n_estimators': 200, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_depth': 3}",0.8819141657864518
+XGBoost,UCI_Aligned,"{'subsample': 0.8, 'n_estimators': 200, 'max_depth': 3, 'learning_rate': 0.2}",0.8828109325160819
